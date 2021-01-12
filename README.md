@@ -1,3 +1,3 @@
 # minesweeper
-This is a simple application for MineSweeper.
+This is a simple MineSweeper application with JavaFX, run as executable.
 Enjoy!
