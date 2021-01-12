@@ -1,3 +1,3 @@
-# tictactoe
-This is a simple application for Tic Tac Toe.
+# minesweeper
+This is a simple application for MineSweeper.
 Enjoy!
